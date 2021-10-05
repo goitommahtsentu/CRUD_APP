@@ -1,0 +1,9 @@
+cd to frontend and npm install
+
+
+go to the main folder and install alll the packags 
+
+to run the frontend and the backend : npm run dev 
+
+to run the frontend juust run npm start
+: to run the backend : npm run server
